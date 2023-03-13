@@ -7,6 +7,9 @@ export const TextForm = () => {
         <label for="myBox" class="form-label">
           Example textarea
         </label>
+        <label for="myBox" class="form-label">
+          Example textarea
+        </label>
         <textarea class="form-control" id="myBox" rows="3"></textarea>
       </div>
     </>
